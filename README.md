@@ -81,7 +81,8 @@
 
 | Project | Description | Technologies |
 |:---:|:---:|:---:|
-| [FLRS](https://github.com/Fangjiage-1/FLRS) | A training-free front-loaded rollback sampling method for efficient ELF text generation | Python · PyTorch · Transformers |
+| [FLRS](https://github.com/Fangjiage-1/FLRS) | A training-free front-loaded rollback sampling method for efficient ELF text generation | Flow-Matching · Python · PyTorch  |
+| [GADAN](https://github.com/Fangjiage-1/GADAN) | A text-conditioned geometry-aware spatial bias method for remote sensing visual grounding | CV · PyTorch · Deformable DETR |
 
 ---
 
