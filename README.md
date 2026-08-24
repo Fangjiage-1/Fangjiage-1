@@ -49,6 +49,19 @@
   <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=dark" />
 </p>
 
+<p align="center">
+  <strong>Models & Methods</strong>
+  <br/><br/>
+  <code>3D Generation</code>
+  <code>TRELLIS</code>
+  <code>Transformers</code>
+  <code>Vision Transformers</code>
+  <code>Diffusion Models</code>
+  <code>VAE</code>
+  <code>Diffusion Language Models</code>
+</p>
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
