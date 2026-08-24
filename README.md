@@ -1,9 +1,9 @@
 <div align="center">
-
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&amp;weight=700&amp;size=17&amp;color=0078D7&amp;center=true&amp;vCenter=true&amp;pause=100000&amp;lines=Hi,+I'm+FangJiage.+AI+Researcher+%26+Developer."
-    alt="Hi, I'm FangJiage. AI Researcher & Developer."
-  />
+  
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&amp;weight=700&amp;size=17&amp;color=0078D7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;pause=100000&amp;lines=Hi%2C+I%27m+FangJiage.+AI+Researcher+%26+Developer."
+  alt="Hi, I'm FangJiage. AI Researcher & Developer."
+/>
 
   <p>
     <img
@@ -14,6 +14,11 @@
     />
     <strong>I'm currently focused on generative AI and efficient language modeling.</strong>
   </p>
+
+<p>
+  <code>🐼 Born 2007 Henan, China.</code>
+  <code>📍 Now based in Xi'an.</code>
+</p>
 
   <p>
     <img
