@@ -19,7 +19,7 @@
 - 🌱 Continuously improving my programming skills
 - 💡 Interested in building creative projects
 - ⚡ Learning is a lifelong journey
-- 📫 Reach me at: `your-email@example.com`
+- 📫 Reach me at: `shushengli@stu.xidian.edu.cn`
 
 ## 🛠️ Tech Stack
 
