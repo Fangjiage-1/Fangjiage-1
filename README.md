@@ -51,21 +51,18 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
+<p align="center">
   <img
-    height="165"
+    width="49%"
     src="https://github-stats-extended.vercel.app/api?username=Fangjiage-1&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
     alt="FangJiage's GitHub Statistics"
   />
-
   <img
-    height="165"
+    width="49%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fangjiage-1&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
     alt="FangJiage's Top Languages"
   />
-
-</div>
+</p>
 
 ## 🚀 Featured Projects
 
