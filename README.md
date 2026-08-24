@@ -16,7 +16,7 @@
   </p>
 
 <p>
-  <code>🐼 Born 2007 Henan, China.</code>
+  <code>🀄 Born 2007 Henan, China.</code>
   <code>📍 Now based in Xi'an.</code>
 </p>
 
@@ -41,12 +41,12 @@
 - 👁️ My research interests include **computer vision and generative AI**.
 - 💡 I enjoy turning research ideas into practical and reproducible projects.
 - ⚡ Learning is a lifelong journey.
-- 📫 Reach me at: `your-email@example.com`
+- 📫 Reach me at: `shushengli@stu.xidian.edu.cn`
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=dark" />
 </p>
 
 ## 📊 GitHub Statistics
