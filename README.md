@@ -12,7 +12,7 @@
       height="28px"
       alt="Waving hand"
     />
-    <strong>I'm currently focused on generative AI and efficient language modeling.</strong>
+    <strong>Welcome to my GitHub profile.</strong>
   </p>
 
 <p>
@@ -37,11 +37,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently exploring new technologies
-- 🌱 Continuously improving my programming skills
-- 💡 Interested in building creative projects
-- ⚡ Learning is a lifelong journey
-- 📫 Reach me at: `shushengli@stu.xidian.edu.cn`
+- 🔭 I'm currently exploring **3D generation and VLA**.
+- 👁️ My research interests include **computer vision and generative AI**.
+- 💡 I enjoy turning research ideas into practical and reproducible projects.
+- ⚡ Learning is a lifelong journey.
+- 📫 Reach me at: `your-email@example.com`
 
 ## 🛠️ Tech Stack
 
@@ -71,6 +71,6 @@
 
 ###  The world is changed by the madness that has not yet become a disease.
 
-Thanks for visiting my profile!
+Thanks for visiting.
 
 </div>
