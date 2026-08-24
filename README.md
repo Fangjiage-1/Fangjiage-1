@@ -1,13 +1,30 @@
 <div align="center">
 
-# Hi, I'm FangJiage 👋
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&amp;weight=700&amp;size=17&amp;color=0078D7&amp;center=true&amp;vCenter=true&amp;pause=100000&amp;lines=Hi,+I'm+FangJiage.+AI+Researcher+%26+Developer."
+    alt="Hi, I'm FangJiage. AI Researcher & Developer."
+  />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Keep+learning%2C+keep+building;Code+changes+the+world" alt="Typing SVG" />
+  <p>
+    <img
+      src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+      width="28px"
+      height="28px"
+      alt="Waving hand"
+    />
+    <strong>I'm currently focused on generative AI and efficient language modeling.</strong>
+  </p>
 
-### 🚀 Exploring technology and building interesting things
-
-![Profile Views](https://komarev.com/ghpvc/?username=Fangjiage-1&color=36BCF7&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/Fangjiage-1?style=flat-square&color=36BCF7)
+  <p>
+    <img
+      src="https://komarev.com/ghpvc/?username=Fangjiage-1&amp;label=Profile+Views&amp;color=0078D7&amp;style=flat-square"
+      alt="Profile Views"
+    />
+    <img
+      src="https://img.shields.io/github/followers/Fangjiage-1?label=Followers&amp;style=flat-square&amp;color=0078D7"
+      alt="GitHub Followers"
+    />
+  </p>
 
 </div>
 
