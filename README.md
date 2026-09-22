@@ -38,8 +38,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently exploring **3D generation and VLA**.
-- 👁️ My research interests include **computer vision and generative AI**.
+- 🔭 I'm currently exploring **VLA**.
+- 👁️ My research interests include **computer vision,generative AI and 3D generation**.
 - 💡 I enjoy turning research ideas into practical and reproducible projects.
 - ⚡ Learning is a lifelong journey.
 - 📫 Reach me at: `shushengli@stu.xidian.edu.cn`
