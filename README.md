@@ -12,7 +12,7 @@
       width="28px"
       height="28px"
       alt="Waving hand"
-    />
+    /> 
     <strong>Welcome to my GitHub profile.</strong>
   </p>
 
