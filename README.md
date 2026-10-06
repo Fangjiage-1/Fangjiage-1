@@ -2,7 +2,7 @@
   
           
 <img  
-  src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&amp;weight=700&amp;size=17&amp;color=0078D7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;pause=100000&amp;lines=Hi%2C+I%27m+FangJiage.+AI+Researcher+%26+Developer."
+  src="https://readme-typing-svg.herokuapp.com?  font=Cascadia+Code&amp;weight=700&amp;size=17&amp;color=0078D7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;pause=100000&amp;lines=Hi%2C+I%27m+FangJiage.+AI+Researcher+%26+Developer."
   alt="Hi, I'm FangJiage. AI Researcher & Developer."
 />
 
